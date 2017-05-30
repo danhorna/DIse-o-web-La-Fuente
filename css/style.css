@@ -1,0 +1,82 @@
+body {
+    background-image:url("../images/fondo.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+table {
+	background-color: ffffff;
+	width: 100%;
+	height: 100%;
+
+
+}
+
+table .inicio{
+	background-color: grey;
+	border: none;
+
+}
+
+table .estabilidad{
+	background-color: c9c9c9;
+	border: none;
+}
+
+table .principiantes{
+	background-color: a5a5a5;
+	border: none;
+}
+
+table .privacidad{
+	background-color: 848484;
+	border: none;
+}
+
+table .potentes{
+	background-color: 4f4f4f;
+	border: none;
+}
+
+table .hobbies{
+	background-color: 232323;
+	border: none;
+}
+
+.tab{
+	margin: auto;
+	height: 70%;
+	width: 70%;
+}
+
+.cuadro {
+	width: 100%;
+	height: 100%;
+	border: 0px;
+}
+
+td a{
+	display:block;position:relative
+}
+
+a:link{
+	text-decoration: none;
+}
+a {
+	color:#000000;
+} 
+a:visited {
+	color:#000000;
+} 
+a:active {
+	color:#000000;
+} 
+a:hover {
+	color:#000000;
+}
+
+.border {
+border-width: 5px;
+border-color: #000000;
+border-style: solid;
+}
