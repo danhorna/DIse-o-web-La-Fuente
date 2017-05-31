@@ -1,0 +1,14 @@
+#mario {
+	background-image: url('../img/mario1.png');
+	width: 140px;
+	height: 177px;
+	position: absolute;
+}
+
+.arrow{
+	background-image: url('../img/arrow.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 120px;
+	height: 120px;	
+}
